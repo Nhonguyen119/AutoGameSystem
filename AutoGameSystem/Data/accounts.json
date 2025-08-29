@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "1",
+    "Name": "Account1",
+    "EmulatorWindowTitle": "NoxPlayer",
+    "ScaleFactor": 1.0,
+    "IsActive": true,
+    "LastRun": "0001-01-01T00:00:00"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "Id": "1",
+    "Name": "Open Gift",
+    "Category": 2,
+    "Priority": 1,
+    "NextRun": "2024-01-01T00:00:00",
+    "LastRun": "0001-01-01T00:00:00",
+    "IsEnabled": true,
+    "MaxRetries": 3,
+    "RetryCount": 0,
+    "NeedsRecheck": false,
+    "Cooldown": "00:00:00",
+    "FallbackCooldown": "00:10:00",
+    "TemplatePaths": ["Resources/Gift/giftbox.png", "Resources/Gift/open_button.png"]
+  }
+]

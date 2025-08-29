@@ -1,0 +1,26 @@
+# Ignore build folders
+bin/
+obj/
+.vs/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# VS Code settings
+.vscode/
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore compiled files
+*.exe
+*.dll
+*.pdb
+
+# Ignore debug files
+*.log
+
+# Ignore NuGet packages
+packages/
